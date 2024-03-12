@@ -87,6 +87,7 @@ page 50101 SimplePage
                     power1 := 0.5;
                     result1 := Power(number1, power1);
                     Message(text000, number1, power1, result1);
+                    Message('hELLO');
                 end;
             }
             // action(eva)
